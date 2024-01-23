@@ -3,7 +3,7 @@ import productdata from "./Data/Data";
 import Header from "./component/Header";
 import Note from "./component/Navigation";
 import Cart from "./component/Cart";
-
+import "./component/style/App.css";
 import { useState } from "react";
 
 

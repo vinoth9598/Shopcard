@@ -38,13 +38,10 @@ const Card=({name,img,price,rating,salePrice,id,addItem,cartItems})=>{
         <div className="items">
             <div  >
                 <div>
-                    <img src="src\component\image\pexels-sora-shimazaki-5926459.jpg"
-                        alt={img}
-                        className="image"
-                    />
+                   <p className='image'>{img}</p>
                 </div>
                 
-                <div >
+                <div>
                     <h5>{name}</h5>
                     <StarRating rating={rating}/>${price}
                 </div>

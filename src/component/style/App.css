@@ -82,8 +82,12 @@ input[type="radio"] {
 }
 
 .image{
+  border:1px solid gray;
+  border-radius: 5px;
+  padding:5px;
   width:150px;
-  height:100px;
+  height:60px;
+  background-color:lightgray;
 }
 
 .button{

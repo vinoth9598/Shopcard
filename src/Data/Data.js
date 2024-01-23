@@ -1,7 +1,7 @@
 const productdata=[
     {
         productName:"Fancy Product",
-        productImg:"http://placeimg.com/640/480/city",
+        productImg:"450/300/Toys",
         productPrice:"150.00",
         productRating:'21362',
         sale:true,
@@ -11,7 +11,7 @@ const productdata=[
     },
     {
         productName:"Special Item",
-        productImg:"http://placeimg.com/640/480/animals",
+        productImg:"640/480/animals",
         productPrice:"220.00",
         productRating:22729,
         sale:false,
@@ -21,7 +21,7 @@ const productdata=[
     },
     {
         productName:"Popular Item",
-        productImg:"http://placeimg.com/640/480/nightlife",
+        productImg:"450/300/nightlife",
         productPrice:"50.00",
         productRating:46460,
         sale:false,
@@ -30,7 +30,7 @@ const productdata=[
     },
     {
         productName:"Sale Item",
-        productImg:"http://placeimg.com/640/480/nature",
+        productImg:"450/300/nature",
         productPrice:"50.00",
         productRating: 53485,
         sale:true,
@@ -40,7 +40,7 @@ const productdata=[
     },
     {
         productName:"Fancy Item",
-        productImg:"http://placeimg.com/640/480/transport",
+        productImg:"450/300/transport",
         productPrice:"570.00",
         productRating:20605,
         sale:true,
@@ -49,7 +49,7 @@ const productdata=[
     },
     {
         productName:"Special Item",
-        productImg:"shopcard img",
+        productImg:"450/300/Sports",
         productPrice:"720.00",
         productRating:58463,
         sale:true,
